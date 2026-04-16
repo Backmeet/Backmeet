@@ -3,7 +3,7 @@ I like to go by back
 I like programming
 
 Some things that I like:
-- Ben eater
+- Ben eater; Tscoding; EletroBoom
 - Low-level programming
 - Tool creation or just general scripting
 - The 6502
